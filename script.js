@@ -1,0 +1,1 @@
+function bgChange(){ document.getElementById("btn").style.backgroundColor="#FAD0EC"}
